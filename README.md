@@ -2,7 +2,7 @@
 
 A simple, self-contained productivity system built into the terminal to fight perfectionism, stay consistent, and remind myself to ship, share, and grow daily — even when motivation runs dry.
 
-## ⚡ What This Is
+## What This Is
 
 This repo contains:
 - ZSH-based terminal prompts
